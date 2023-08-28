@@ -1,5 +1,5 @@
 const portfolioData = [
-    { title: "Proyek 1", description: "Portofolio." },
+    { title: "Proyek 1", description: "Deskripsi proyek 1." },
     { title: "Proyek 2", description: "Deskripsi proyek 2." },
     { title: "Proyek 3", description: "Deskripsi proyek 3." }
     // Tambahkan lebih banyak objek proyek sesuai kebutuhan
